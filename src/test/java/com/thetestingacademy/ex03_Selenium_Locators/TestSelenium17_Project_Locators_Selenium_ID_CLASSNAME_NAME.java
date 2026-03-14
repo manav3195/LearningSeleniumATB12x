@@ -1,0 +1,4 @@
+package com.thetestingacademy.ex03_Selenium_Locators;
+
+public class TestSelenium17_Project_Locators_Selenium_ID_CLASSNAME_NAME {
+}
