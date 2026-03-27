@@ -36,7 +36,7 @@ public class TestSelenium28_Alerts extends CommonToAll {
 
         WebElement result = driver.findElement(By.xpath("//p[@id='result']"));
         Assert.assertEquals(result.getText(),"You entered: testing academy");
-        closeBrowser(driver);
+
 
 
     }
